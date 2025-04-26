@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: "Raleway";
+    background-color: black;
+    color: white;
+}
+
+header {
+    text-align: center;
+    background-color: transparent;
+}
+
+
+header h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+header img {
+    width: 1280px;
+    height: 727px;
+}
+
+.descripcion {
+    text-align: left;
+    display: flex;
+    width: 1200px;
+    height: 348px;
+}
+
+.descripcion img {
+   margin-inline: 106px;
+   width: 399px;
+   height: 237px;
+   margin-top: 45px;
+   margin-right: 150px;
+}
+
+.descripcion p {
+    width: 475px;
+    height: 197px;
+    margin-left: 150px;
+    margin-top: 76px;
+    font-size: 16px;
+}
+
+
+.caracteristicas {
+    background-color: #1E1A13;
+    width: 1280px;
+    height: 348px;
+}
+.caracteristicas h2 {
+    border-top: 75px;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 75px;
+}
