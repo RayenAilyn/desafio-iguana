@@ -69,3 +69,82 @@ header img {
     font-size: 40px;
     padding-top: 75px;
 }
+
+.logo1 {
+    width: 57px;
+    height: 36.64px;
+    margin-top: 50px;
+    margin-left: 326px;
+}
+
+.logo2 {
+    width: 39.17px;
+    height: 55.8px;
+    margin-top: 50px;
+    margin-left: 237.41px;
+}
+
+.logo3 {
+    width: 40.93px;
+    height: 48.61px;
+    margin-top: 50px;
+    margin-left: 255.66px;
+}
+
+.caracteristicas_p {
+    display: flex;
+}
+
+.p1 {
+    font-size: 25px;
+    margin-top: 16px;
+    margin-left: 301px;
+}
+
+.p2 {
+    font-size: 25px;
+    margin-top: 16px;
+    margin-left: 182px;
+}
+
+.p3 {
+    font-size: 25px;
+    margin-top: 16px;
+    margin-left: 145.88px;
+}
+
+.container-iguanas {
+    margin-top: 73px;
+    margin-bottom: 73px;
+}
+
+.container-iguanas img {
+    text-align: center;
+    width: 316px;
+    height: 202px;
+}
+ .img2 {
+    margin-left: 95px;
+ }
+
+ .img3 {
+    margin-left: 16px;
+ }
+
+ .img4 {
+    margin-left: 16px;
+    margin-right: 150px;
+ }
+
+ .footer {
+    background-color: #1E1A13;
+    font-size: 20px;
+    width: 1280px;
+    height: 102px;
+ }
+
+ .footer p {
+    text-align: center;
+    padding-top: 39px;
+    padding-bottom: 39px;
+ }
